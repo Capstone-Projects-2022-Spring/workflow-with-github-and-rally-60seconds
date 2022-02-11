@@ -124,6 +124,7 @@ public class CalculatorModel {
 
     public double operationDiv(double rhs, double lhs) {
         return lhs;
+
     }
 
     public double operationPercent(double value) { return 0.1; }
