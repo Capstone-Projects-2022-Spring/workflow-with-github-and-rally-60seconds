@@ -131,7 +131,7 @@ public class CalculatorModel {
     }
 
     public double operationInverse(double value) {
-      return -42.0;
+      return -value;
     }
 
 
